@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sfwedding]]></title>
+        <description><![CDATA[sfwedding]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 19:27:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[San Francisco City Hall Wedding Collection ]]></title>
+            <description><![CDATA[<article><h1>San Francisco City Hall Wedding Collection </h1><p>San Francisco City Hall Wedding Collections</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d4949d86bb81c19d65d9d095591bec7a8342c35.jpg"></article>]]></description>
+            <link>undefinedsan-francisco-city-hall-wedding-collection/index.html</link>
+            <guid isPermaLink="false">2286e301-a537-46bc-aa33-4689237d4823</guid>
+            <pubDate>Sat, 05 Mar 2016 19:27:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
